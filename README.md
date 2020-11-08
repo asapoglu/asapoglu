@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Abdurrahman's github stats](https://github-readme-stats.vercel.app/api?username=asapoglu&show_icons=true&theme=radical)  
 <br />
 
 ### Languages and Tools:
