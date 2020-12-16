@@ -27,8 +27,9 @@
 
 <br />
 <br />
-![Abdurrahman's github stats](https://github-readme-stats.vercel.app/api?username=asapoglu&show_icons=true&count_private=true&theme=radical)
-<!--
+<div >
+    <img src="https://github-readme-stats.vercel.app/api?username=asapoglu&show_icons=true&count_private=true&theme=material-palenight" alt="Asapoglu's Readme Stats"/>
+</div><!--
 **asapoglu/asapoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
