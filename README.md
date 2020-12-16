@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning Machine Learning
 - 👨‍💻 Working as a Game Developer
 - ⚡️ Fun fact: I just love learning new things
-- 💬 Chat with me:  [@asapoglu](abdurrahmansapoglu@gmail.com)
+- 💬 Ask me about anything [here](https://github.com/asapoglu/asapoglu/issues)
 
 
 ### Languages and Tools:
