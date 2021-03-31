@@ -1,6 +1,6 @@
 <div align="center">
   <img height="100" src="https://user-images.githubusercontent.com/72756431/102409157-a311df80-3fff-11eb-849b-4ad05b8e2ce0.png">
-  <h1>Abdurrahman Şapoğlu</h1>
+  <h1>Abdurrahman</h1>
 </div>
 
 - 🔥 Artificial Intelligence Enthusiast
