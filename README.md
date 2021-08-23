@@ -3,11 +3,7 @@
   <h1>Abdurrahman</h1>
 </div>
 
-- 🔥 Artificial Intelligence Enthusiast
-- 😍 Java Lover
-- 🌱 I'm currently learning Machine Learning
 - 👨‍💻 Working as a Game Developer
-- ⚡️ Fun fact: I just love learning new things
 - 💬 Ask me about anything [here](https://github.com/asapoglu/asapoglu/issues)
 
 
